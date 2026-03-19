@@ -24,6 +24,9 @@ A professional, full-stack AutoML platform that automates the entire machine lea
 ### Select the target column
 <img width="1857" height="900" alt="Image" src="https://github.com/user-attachments/assets/a774fc15-690d-40a0-8ba5-8abec4420f9b" />
 
+### Training Pipeline
+<img width="1862" height="872" alt="Image" src="https://github.com/user-attachments/assets/77a2af46-6ea9-41e1-8872-3aff4d3e9405" />
+
 
 ### Find the best model
 <img width="1875" height="717" alt="Image" src="https://github.com/user-attachments/assets/be3f8a6f-ed1c-4c52-b6c2-26a80b0b2fb6" />
