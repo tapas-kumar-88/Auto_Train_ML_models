@@ -13,6 +13,23 @@ A professional, full-stack AutoML platform that automates the entire machine lea
 
 ## Images
 
+### UI
+<img width="1871" height="897" alt="Image" src="https://github.com/user-attachments/assets/e1bac852-43bd-41ea-81c4-190863a8d13d" />
+
+
+### Upload dataset
+<img width="1225" height="527" alt="Image" src="https://github.com/user-attachments/assets/d114a6d2-e664-4b31-8182-164de6670b70" />
+
+
+### Select the target column
+<img width="1857" height="900" alt="Image" src="https://github.com/user-attachments/assets/a774fc15-690d-40a0-8ba5-8abec4420f9b" />
+
+
+### Find the best model
+<img width="1875" height="717" alt="Image" src="https://github.com/user-attachments/assets/be3f8a6f-ed1c-4c52-b6c2-26a80b0b2fb6" />
+<img width="1856" height="877" alt="Image" src="https://github.com/user-attachments/assets/77d56a35-592c-4128-a036-25b7ecae685b" />
+
+
 ## 🛠️ Tech Stack
 
 ### Backend 
